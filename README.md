@@ -1,4 +1,3 @@
-# Menghitung-skor-
 fun main() {     
   var skor = -1      
   
